@@ -9,7 +9,7 @@ Teammates:
 
 For this project, a master single-table was given as an initial point. The goal was to design a new database schema with good practices like normalization and de-normalization when necessary (DER.jpg), a migration script to take data from the old to the new schema (data/script_creacion_inicial.sql), and a Business Intelligence schema (DER_BI.jpg) for which a migration script and views were created (data/script_creacion_bi.sql).
 
-The BI Model follows a Star - Data Warehouse model as it is seen in the DER_BI.jpg.
+The BI Model follows a Star - Data Warehouse model as seen in DER_BI.jpg.
 
 ## How to run the migrations:
 Note: I recommend using Microsoft SQL Server 2012, which was the DBMS used for the project.
